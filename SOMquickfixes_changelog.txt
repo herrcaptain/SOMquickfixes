@@ -1,0 +1,7 @@
+Changelog:
+
+2016-03-24:
+
+-Added upgrade path to UNIT_BA_CELT_PICTISH_WARRIOR. Now upgrades to UNITCLASS_LONGSWORDSMAN like UNIT_CELT_PICTISH_WARRIOR
+-Added missing free promotions to UNIT_BA_CELT_PICTISH_WARRIOR as in UNIT_CELT_PICTISH_WARRIOR
+-Fixed building requirement for Aqueduct System. Was incorrectly requiring Gristmill, now correctly requires Plumbing Network in all cities.
