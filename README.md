@@ -3,7 +3,7 @@
 A few quick fixes for Uncivilizedguy's Saga of Man Civilization 5 mod found here:
 http://steamcommunity.com/sharedfiles/filedetails/?id=644328949
 
-## Current Version
+## Current Version (2016-03-24)
 
 Current version is compatible with SOM v100
 
